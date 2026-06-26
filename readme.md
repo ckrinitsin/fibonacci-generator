@@ -5,7 +5,7 @@ The focus lies on the generator implementation of the sequence.
 
 ## Build instructions
 
-First, you need to install the GMP library: follow [these](https://gmplib.org/gmp-man-6.3.0.pdf#Installing%20GMP) instructions.
+First, you need to have the GMP library installed: install it via your package manager or follow [these](https://gmplib.org/gmp-man-6.3.0.pdf#Installing%20GMP) instructions.
 
 Next, install the main application:
 
